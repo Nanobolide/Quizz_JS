@@ -1,2 +1,0 @@
-# Quizz_JS
-Interative 
